@@ -1,0 +1,23 @@
+{
+  "short_name": "Blocky Gun Paintball 2",
+  "name": "Blocky Gun Paintball 2",
+  "icons": [
+    {
+      "src": "https://img.gamedistribution.com/8938f0a866b04ed8b5f46c57d0797aad-512x512.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.gamedistribution.com/8938f0a866b04ed8b5f46c57d0797aad-512x512.jpeg",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/8938f0a866b04ed8b5f46c57d0797aad/index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/8938f0a866b04ed8b5f46c57d0797aad/",
+  "theme_color": "#3367D6"
+}
